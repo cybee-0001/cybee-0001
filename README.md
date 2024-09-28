@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ajay kumar samanta and I'm a full stack web developer, from Kolkata</h2>
+<h2 align="left">Hi 👋! I am Ajay kumar samanta, a full stack web developer, from Kolkata</h2>
 
 ###
 
